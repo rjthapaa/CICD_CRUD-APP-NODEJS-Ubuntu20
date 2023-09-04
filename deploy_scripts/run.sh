@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd /home/ec2-user/node
+cd /home/ubuntu/node
 
 #npm install
 #npm start
