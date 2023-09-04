@@ -1,4 +1,4 @@
-# add nodejs to yum
+# add nodejs to apt
 curl -sL https://rpm.nodesource.com/setup_lts.x | bash -
 apt install nodejs -y #default-jre ImageMagick
 
